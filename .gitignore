@@ -1,0 +1,8 @@
+dist/vendor/
+build/
+node_modules/
+*.exe
+*.zip
+*.log
+.DS_Store
+Thumbs.db
