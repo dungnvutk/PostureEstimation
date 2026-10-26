@@ -2,6 +2,10 @@
 
 Mia analyzes a walking video locally and overlays detected joints or an anatomical skeleton illustration. It runs in a browser and can be packaged as a standalone Windows executable.
 
+![Anatomical skeleton overlay attached to detected joints](docs/images/skeleton-overlay.png)
+
+*Anatomical overlay preview. This screenshot shows the earlier Stride branding; the app is now named Mia.*
+
 ## Features
 
 - Single-person detection with MediaPipe Pose Landmarker Heavy.
